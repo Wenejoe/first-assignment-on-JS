@@ -15,3 +15,5 @@ console.log(nav); // jane doe
 const name = 'john doe';
 console.log(nav); // john doe
 name = 'jane doe'; // type error:
+
+// in all VAR is  considered evil
